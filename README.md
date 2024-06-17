@@ -23,7 +23,7 @@ MakeCode でこのリポジトリを読み込みます。
 
 # 使い方
 > [!IMPORTANT]
-> このレポジトリは　[seat-side](https://github.com/Ok-kun318/hand-side/)と併用します
+> このレポジトリは　[hand-side](https://github.com/Ok-kun318/hand-side/)と併用します
 
 ### 1. install
 * hexファイルを[ここから](https://github.com/Ok-kun318/hand-side/releases/download/v1.0.0/microbit-seat-side-v1.0.0.hex).ダウンロードします

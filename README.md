@@ -5,13 +5,13 @@
 
 ~~このリポジトリは、MakeCode で **拡張機能** として追加できます。~~
 
-~~* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く~~
+* ~~[https://makecode.microbit.org/](https://makecode.microbit.org/) を開く~~
 
-~~* **新しいプロジェクト** をクリックしてください~~
+* ~~**新しいプロジェクト** をクリックしてください~~
 
-~~* ギアボタンメニューの中にある **拡張機能** をクリックしてください~~
+* ~~ギアボタンメニューの中にある **拡張機能** をクリックしてください~~
 
-~~* **https://github.com/ok-kun318/seat-side** を検索してインポートします。~~
+* ~~**https://github.com/ok-kun318/seat-side** を検索してインポートします。~~
 
 ## このプロジェクトを編集します
 

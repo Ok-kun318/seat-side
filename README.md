@@ -13,13 +13,15 @@
 
 * ~~**https://github.com/ok-kun318/seat-side** を検索してインポートします。~~
 
-## このプロジェクトを編集します
+## このプロジェクトを読み込みます
 
-MakeCode でこのリポジトリを編集します。
+MakeCode でこのリポジトリを読み込みます。
 
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
 * **https://github.com/ok-kun318/seat-side** を貼り付けてインポートをクリックしてください
+
+##
 
 #### メタデータ (検索、レンダリングに使用)
 
